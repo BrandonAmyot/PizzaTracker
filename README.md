@@ -11,3 +11,5 @@ This program is designed to take and store the orders in a pizza restaurant.
 * Option three will show all information for each pizza of a specific size chosen by the user.
 * Option four is designed so the user can see various statistics on the pizzas that have been created so far.
 * Option five will close the program.
+
+Password for program is deluxepizza.
